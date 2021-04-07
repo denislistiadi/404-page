@@ -23,7 +23,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -46,7 +46,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML & CSS
+- HTML
+- CSS
 
 ## Features
 
@@ -65,5 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
+- Facebook [Deniss Listiadii](https://{facebook.com/denis.id})
 - GitHub [@denislistiadi](https://{github.com/denislistiadi})
 - Twitter [@kenshin_del](https://{twitter.com/kenshin_del})
