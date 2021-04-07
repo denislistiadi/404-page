@@ -32,7 +32,8 @@
 
 ## Overview
 
-![screenshot] (/ss.png)
+![ss](https://user-images.githubusercontent.com/59798797/113898793-64927180-97f6-11eb-8105-f256aa5754cc.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
